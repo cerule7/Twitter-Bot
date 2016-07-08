@@ -54,6 +54,8 @@ Woman
 Paper
 Trade
 Money
+Pokemon
+Goldfish
 Wind
 Friend
 Teaching
@@ -65,6 +67,13 @@ Comparison
 Religion
 Paint
 Harbor
+Mario Kart
+Room On Fire
+Comedown Machine
+Fire Impressions of Earth
+Angles
+Future Present Past
+Is This It
 Man
 Request
 Answer
